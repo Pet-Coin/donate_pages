@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "description": "Pets.Love",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Pets.Love",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Pets.Love",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "shopping"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": []
+}
